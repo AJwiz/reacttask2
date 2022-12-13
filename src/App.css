@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.shop-title{
+  padding: 5rem;
+  color: #fff;
+}
+.title{
+  font-size: 3rem;
+}
+.sub-title{
+  font-size: 1rem;
+}
+.sec_tion{
+  padding-top: 4rem;
+  display: block;
+}
+.card{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  word-wrap: break-word;
+  min-width: auto;
+  height: 100%;
+  margin-bottom: 4rem;
+}
+.badge{
+  top: 0.5rem;
+  right: 0.5rem;
+}
+.colo{
+  padding: 0rem 2rem;
+  display: flex;
+  flex-direction: row;
+}
+.col-8{
+  margin-right: 2rem;
+}
+.item-card{
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: space-between;
+}
